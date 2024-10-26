@@ -16,7 +16,7 @@ Sou um profissional de TI especializado em **Cloud Computing** e **Infraestrutur
 
 - [Website Estático com arquitetura AWS](https://github.com/wlazevedo/static-site-s3)
 - [Análise de Dados com Python](https://github.com/wlazevedo/analise-python)
-- [Análise de Dados com Python](https://github.com/wlazevedo/cloudmart)
+- [Ecommerce na AWS](https://github.com/wlazevedo/cloudmart)
 ## 🎓 Certificações
 
 - Cloud Practitioner CLF-02 🏅
