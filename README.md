@@ -17,6 +17,7 @@ Sou um profissional de TI especializado em **Cloud Computing** e **Infraestrutur
 
 ## 🚀 Projetos em Destaque
 
+- [Infraestrutura de Kubernetes escalável e segura com Terraform ](https://github.com/wlazevedo/devops-terraform)
 - [Website Estático com arquitetura AWS](https://github.com/wlazevedo/static-site-s3)
 - [Análise de Dados com Python](https://github.com/wlazevedo/analise-python)
 - [Ecommerce na AWS](https://github.com/wlazevedo/cloudmart)
