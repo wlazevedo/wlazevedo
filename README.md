@@ -1,6 +1,6 @@
 # Olá, sou Walax Azevedo 👋
 
-**DevOps Engineer @ Bry** — Kubernetes · Terraform · Ansible · GitLab CI/CD · AWS & GCP
+**DevOps Engineer** — Kubernetes · Terraform · Ansible · GitLab CI/CD · AWS & GCP
 
 Atuo com automação e confiabilidade de infraestrutura em ambientes híbridos (on-premise + cloud), unindo background em administração de redes e sistemas a práticas de DevOps e DevSecOps: IaC com Terraform/Ansible, orquestração com Kubernetes/K3s, pipelines GitLab CI/CD com security gates e observabilidade com Prometheus/Grafana/Zabbix.
 
